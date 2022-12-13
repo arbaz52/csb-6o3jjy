@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://arbaz52.github.io/csb-6o3jjy/static/css/main.d83d1957.chunk.css",
+    "main.js": "https://arbaz52.github.io/csb-6o3jjy/static/js/main.4a994d29.chunk.js",
+    "main.js.map": "https://arbaz52.github.io/csb-6o3jjy/static/js/main.4a994d29.chunk.js.map",
+    "runtime-main.js": "https://arbaz52.github.io/csb-6o3jjy/static/js/runtime-main.d72dedca.js",
+    "runtime-main.js.map": "https://arbaz52.github.io/csb-6o3jjy/static/js/runtime-main.d72dedca.js.map",
+    "static/js/2.3063b7a8.chunk.js": "https://arbaz52.github.io/csb-6o3jjy/static/js/2.3063b7a8.chunk.js",
+    "static/js/2.3063b7a8.chunk.js.map": "https://arbaz52.github.io/csb-6o3jjy/static/js/2.3063b7a8.chunk.js.map",
+    "index.html": "https://arbaz52.github.io/csb-6o3jjy/index.html",
+    "static/css/main.d83d1957.chunk.css.map": "https://arbaz52.github.io/csb-6o3jjy/static/css/main.d83d1957.chunk.css.map",
+    "static/js/2.3063b7a8.chunk.js.LICENSE.txt": "https://arbaz52.github.io/csb-6o3jjy/static/js/2.3063b7a8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d72dedca.js",
+    "static/js/2.3063b7a8.chunk.js",
+    "static/css/main.d83d1957.chunk.css",
+    "static/js/main.4a994d29.chunk.js"
+  ]
+}
